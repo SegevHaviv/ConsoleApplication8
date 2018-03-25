@@ -1,1 +1,0 @@
-A website which conducts overall three rounds, in each the user chooses four pictures, overall twelve pictures, each round by an algorithm we made based on decision threes there's a calculation to extract the features out of the chosen picture and attempt to analyze what is the best place for a vacation by the given input. Created in .NET framework and Java language
