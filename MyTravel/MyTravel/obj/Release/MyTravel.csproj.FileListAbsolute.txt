@@ -1,0 +1,5 @@
+C:\Users\Daniel Yochpaz\documents\visual studio 2015\Projects\MyTravel\MyTravel\bin\Release\MyTravel.dll
+C:\Users\Daniel Yochpaz\documents\visual studio 2015\Projects\MyTravel\MyTravel\bin\Release\MyTravel.pdb
+C:\Users\Daniel Yochpaz\documents\visual studio 2015\Projects\MyTravel\MyTravel\obj\Release\MyTravel.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Yochpaz\documents\visual studio 2015\Projects\MyTravel\MyTravel\obj\Release\MyTravel.dll
+C:\Users\Daniel Yochpaz\documents\visual studio 2015\Projects\MyTravel\MyTravel\obj\Release\MyTravel.pdb

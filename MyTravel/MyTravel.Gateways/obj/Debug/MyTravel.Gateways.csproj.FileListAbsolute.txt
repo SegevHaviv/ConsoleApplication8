@@ -1,0 +1,7 @@
+c:\Users\daniel yochpaz\documents\visual studio 2015\Projects\MyTravel\MyTravel.Gateways\obj\Debug\MyTravel.Gateways.csprojResolveAssemblyReference.cache
+c:\Users\daniel yochpaz\documents\visual studio 2015\Projects\MyTravel\MyTravel.Gateways\bin\Debug\MyTravel.Gateways.dll
+c:\Users\daniel yochpaz\documents\visual studio 2015\Projects\MyTravel\MyTravel.Gateways\bin\Debug\MyTravel.Gateways.pdb
+c:\Users\daniel yochpaz\documents\visual studio 2015\Projects\MyTravel\MyTravel.Gateways\bin\Debug\MyTravel.dll
+c:\Users\daniel yochpaz\documents\visual studio 2015\Projects\MyTravel\MyTravel.Gateways\bin\Debug\MyTravel.pdb
+c:\Users\daniel yochpaz\documents\visual studio 2015\Projects\MyTravel\MyTravel.Gateways\obj\Debug\MyTravel.Gateways.dll
+c:\Users\daniel yochpaz\documents\visual studio 2015\Projects\MyTravel\MyTravel.Gateways\obj\Debug\MyTravel.Gateways.pdb

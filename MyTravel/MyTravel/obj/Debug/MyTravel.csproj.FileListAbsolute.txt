@@ -1,0 +1,10 @@
+c:\users\daniel yochpaz\documents\visual studio 2015\Projects\MyTravel\MyTravel\bin\Debug\MyTravel.dll
+c:\users\daniel yochpaz\documents\visual studio 2015\Projects\MyTravel\MyTravel\bin\Debug\MyTravel.pdb
+c:\users\daniel yochpaz\documents\visual studio 2015\Projects\MyTravel\MyTravel\obj\Debug\MyTravel.csprojResolveAssemblyReference.cache
+c:\users\daniel yochpaz\documents\visual studio 2015\Projects\MyTravel\MyTravel\obj\Debug\MyTravel.dll
+c:\users\daniel yochpaz\documents\visual studio 2015\Projects\MyTravel\MyTravel\obj\Debug\MyTravel.pdb
+C:\Users\segev\Desktop\Hack\MyTravel\MyTravel\bin\Debug\MyTravel.dll
+C:\Users\segev\Desktop\Hack\MyTravel\MyTravel\bin\Debug\MyTravel.pdb
+C:\Users\segev\Desktop\Hack\MyTravel\MyTravel\obj\Debug\MyTravel.csprojResolveAssemblyReference.cache
+C:\Users\segev\Desktop\Hack\MyTravel\MyTravel\obj\Debug\MyTravel.dll
+C:\Users\segev\Desktop\Hack\MyTravel\MyTravel\obj\Debug\MyTravel.pdb
