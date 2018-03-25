@@ -1,0 +1,9 @@
+﻿<div class="container">
+    <h2>And the Results Are....</h2>
+    <h3>We suggest you to travel at least one of the {{Result.Cities.length}} above cities:</h3>
+    <ul class="list-group">
+        <li class="list-group-item" ng-repeat="cit in Result.Cities">
+            <a class="btn btn-link btn-block" href="/Home/Place?id={{cit}}">{{cit}}</a>
+        </li>
+    </ul>
+</div>

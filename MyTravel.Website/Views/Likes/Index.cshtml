@@ -1,0 +1,24 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="container" ng-controller="likesController" style="margin:30px auto;">
+    <div class="animate-box fadeInUp animated" ng-hide="Model.Step==4">
+        <h2 ng-show="Model.Step==1">What makes you feel good?</h2>
+        <h2 ng-show="Model.Step==2">What is intersting you?</h2>
+        <h2 ng-show="Model.Step==3">Just one last step...</h2>
+        <h4>Step {{Model.Step}} From 3</h4>
+        <div class="row">
+            <ul class="list-inline">
+                <li ng-repeat="item in Model.Options" ng-click="itemClick(item)" class="one-forth text-center tile col-md-4" ng-class="{'choosen-option':item.IsChecked}" style="background-image: url('{{item.Image}}');">
+                </li>
+            </ul>
+        </div>
+        <div>
+            <button class="btn btn-primary btn-block" ng-click="GetOptions();" ng-disabled="CheckedCount < 3"><span ng-show="Model.Step<3">Next</span><span ng-show="Model.Step===3">Show results</span> <span ng-show="CheckedCount < 3">(More {{3-CheckedCount}} to choose)</span></button>
+        </div>
+    </div>
+    <div ng-show="Model.Step==4" ng-include="'Likes/_Result'">
+    </div>
+</div>
+
